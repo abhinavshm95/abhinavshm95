@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinavshm95&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavshm95&show_icons=true&theme=gruvbox&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavshm95&layout=compact)](https://github.com/abhinavshm95)
 <!--
-**abhinavshm95/abhinavshm95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phamtuanchip/phamtuanchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
