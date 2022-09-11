@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## 📈 GitHub Stats
+![](https://visitor-badge.glitch.me/badge?page_id=theguidingstar.theguidingstar)
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinavshm95&show_icons=true&theme=radical" />
