@@ -24,6 +24,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen?style=for-the-badge&logo=Vue.js&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/ReactNative-02569B?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
