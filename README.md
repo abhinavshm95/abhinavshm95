@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abhinavshm95?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **Backend** & **Database**
 
 - 📫 How to reach me **abhinavshm95@gmail.com**
 
